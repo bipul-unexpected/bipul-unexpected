@@ -1,6 +1,6 @@
 <!-- ⚡ FUTURISTIC ANIMATED HEADER ⚡ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=BIPUL%20ROY&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20DevOps%20%26%20CI/CD%20Architect&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=BIPUL%20ROY&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20DevOps%20Architect&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </div>
 
 <!-- 👤 PROFILE AVATAR — circular, framed by animated rainbow beams -->
@@ -36,7 +36,7 @@
 <!-- 🧬 ABOUT ME -->
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" alt="Coding GIF"/>
 
-## 🧬 About Me
+## 🧬 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand"/>
 
     const bipul = {
       name: "Bipul Roy",
@@ -61,7 +61,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=TECH%20ARSENAL&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Tech Arsenal"/>
+</div>
 
 ### 💻 Frontend & UI/UX
 <div align="center">
@@ -85,7 +87,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## ⚡ CI/CD Pipeline Philosophy
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=CI%2FCD%20PIPELINE&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="CI/CD Pipeline"/>
+</div>
 
 <div align="center">
 
@@ -100,7 +104,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=GITHUB%20ANALYTICS&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="GitHub Analytics"/>
+</div>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=bipul-unexpected&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -131,7 +137,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## 🏆 Trophy Cabinet
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=TROPHY%20CABINET&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Trophy Cabinet"/>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bipul-unexpected&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
@@ -139,7 +147,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=CONTRIBUTION%20SNAKE&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Contribution Snake"/>
+</div>
 
 <div align="center">
   <picture>
@@ -151,7 +161,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## 🌐 3D Contribution Graph
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=3D%20CONTRIBUTION%20GRAPH&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="3D Contribution Graph"/>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bipul-unexpected/bipulroy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
@@ -159,7 +171,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## 📌 Featured Repo
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=FEATURED%20REPO&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Featured Repo"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/bipul-unexpected/bipulroy">
@@ -169,7 +183,9 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
-## 🤝 Connect With Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=CONNECT%20WITH%20ME&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Connect With Me"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/bipul-unexpected"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -185,6 +201,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
   <br/>
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=true&width=800&lines=%E2%AD%90+Thanks+for+visiting!+Drop+a+star+if+you+like+what+you+see+%E2%AD%90;See+you+in+the+future+%F0%9F%9A%80" alt="Thanks for visiting"/>
 </div>
 
 <!-- 🌊 ANIMATED FOOTER -->
