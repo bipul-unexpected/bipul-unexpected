@@ -17,7 +17,7 @@
 <!-- 💫 TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/bipul-unexpected">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&repeat=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Bipul+Roy;Full-Stack+Developer+%E2%80%A2+UI%2FUX+Designer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Angular+%E2%80%A2+Node.js+%E2%80%A2+Django;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+Automation+Expert;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&repeat=true&width=800&lines=Hi+%F0%9F%91%8B+I%27m+Bipul+Roy;Full-Stack+Developer+%E2%80%A2+UI%2FUX+Designer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Angular+%E2%80%A2+Node.js+%E2%80%A2+Django;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+Automation+Expert;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2500&pause=600&color=8E2DE2&center=true&vCenter=true&repeat=true&width=800&lines=%E2%9C%A6+WELCOME+TO+MY+DIGITAL+UNIVERSE+%E2%9C%A6;%E2%9C%A6+CRAFTING+AWARD-WORTHY+WEB+EXPERIENCES+%E2%9C%A6;%E2%9C%A6+DESIGN+%2B+CODE+%2B+MOTION+%2B+SCALE+%E2%9C%A6" alt="Futuristic Typing SVG" />
@@ -58,7 +58,7 @@
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=700&color=8E2DE2&center=true&vCenter=true&repeat=true&width=380&lines=while+(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+%7D;git+commit+-m+%22another+masterpiece%22+%F0%9F%94%A5;sudo+rm+-rf+%2Fboredom" alt="terminal typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=700&color=8E2DE2&center=true&vCenter=true&repeat=true&width=380&lines=while+%28alive%29+%7B+eat%28%29%3B+sleep%28%29%3B+code%28%29%3B+%7D;git+commit+-m+%22another+masterpiece%22+%F0%9F%94%A5;sudo+rm+-rf+%2Fboredom" alt="terminal typing animation"/>
 
 </td>
 </tr>
@@ -112,7 +112,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&repeat=true&width=700&lines=%22If+it's+not+automated%2C+it's+broken.%22;Every+deployment+should+be+boring+%F0%9F%A7%98" alt="CI/CD philosophy typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&repeat=true&width=700&lines=%22If+it%27s+not+automated%2C+it%27s+broken.%22;Every+deployment+should+be+boring+%F0%9F%A7%98" alt="CI/CD philosophy typing animation"/>
 </div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
@@ -166,9 +166,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bipul-unexpected/bipulroy/main/dist/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bipul-unexpected/bipulroy/main/dist/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bipul-unexpected/bipulroy/main/dist/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bipul-unexpected/bipul-unexpected/main/dist/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bipul-unexpected/bipul-unexpected/main/dist/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/bipul-unexpected/bipul-unexpected/main/dist/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -179,7 +179,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bipul-unexpected/bipulroy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/bipul-unexpected/bipul-unexpected/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
@@ -217,7 +217,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=true&width=800&lines=%E2%AD%90+Thanks+for+visiting!+Drop+a+star+if+you+like+what+you+see+%E2%AD%90;See+you+in+the+future+%F0%9F%9A%80" alt="Thanks for visiting"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=true&width=800&lines=%E2%AD%90+Thanks+for+visiting%21+Drop+a+star+if+you+like+what+you+see+%E2%AD%90;See+you+in+the+future+%F0%9F%9A%80" alt="Thanks for visiting"/>
 </div>
 
 <!-- 🌊 ANIMATED FOOTER -->
