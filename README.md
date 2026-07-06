@@ -25,10 +25,10 @@
 
 <!-- 👁️ PROFILE VIEWS + BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bipul-unexpected&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/bipul-unexpected?style=for-the-badge&color=4A00E0&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20DevOps-00C9FF?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-8E2DE2?style=for-the-badge&labelColor=0d1117" alt="Open to collaboration"/>
+  <img src="https://komarev.com/ghpvc/?username=bipul-unexpected&style=flat-square&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/bipul-unexpected?style=flat-square&color=4A00E0&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20DevOps-00C9FF?style=flat-square&labelColor=0d1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-8E2DE2?style=flat-square&labelColor=0d1117" alt="Open to collaboration"/>
 </div>
 
 <br/>
@@ -62,7 +62,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=TECH%20ARSENAL&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Tech Arsenal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+TECH+ARSENAL+%E2%9C%A6" alt="Tech Arsenal"/>
 </div>
 
 ### 💻 Frontend & UI/UX
@@ -88,7 +88,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=CI%2FCD%20PIPELINE&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="CI/CD Pipeline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=8E2DE2&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+CI%2FCD+PIPELINE+%E2%9C%A6" alt="CI/CD Pipeline"/>
 </div>
 
 <div align="center">
@@ -105,7 +105,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=GITHUB%20ANALYTICS&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="GitHub Analytics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+GITHUB+ANALYTICS+%E2%9C%A6" alt="GitHub Analytics"/>
 </div>
 
 <div align="center">
@@ -138,7 +138,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=TROPHY%20CABINET&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Trophy Cabinet"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=8E2DE2&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+TROPHY+CABINET+%E2%9C%A6" alt="Trophy Cabinet"/>
 </div>
 
 <div align="center">
@@ -148,7 +148,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=CONTRIBUTION%20SNAKE&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Contribution Snake"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+CONTRIBUTION+SNAKE+%E2%9C%A6" alt="Contribution Snake"/>
 </div>
 
 <div align="center">
@@ -162,7 +162,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=3D%20CONTRIBUTION%20GRAPH&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="3D Contribution Graph"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=8E2DE2&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+3D+CONTRIBUTION+GRAPH+%E2%9C%A6" alt="3D Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -172,7 +172,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=100&text=FEATURED%20REPO&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Featured Repo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+FEATURED+REPO+%E2%9C%A6" alt="Featured Repo"/>
 </div>
 
 <div align="center">
@@ -184,7 +184,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&text=CONNECT%20WITH%20ME&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Connect With Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=8E2DE2&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+CONNECT+WITH+ME+%E2%9C%A6" alt="Connect With Me"/>
 </div>
 
 <div align="center">
