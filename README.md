@@ -125,12 +125,12 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bipul-unexpected&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2&text_color=ffffff&rank_icon=github" alt="GitHub Stats"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bipul-unexpected&theme=radical" alt="GitHub Stats"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipul-unexpected&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff" alt="Top Languages"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bipul-unexpected&theme=radical" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -149,12 +149,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bipul-unexpected&theme=radical" alt="Repos per Language"/>
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bipul-unexpected&theme=radical" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bipul-unexpected&theme=radical" alt="Stats Card"/>
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bipul-unexpected&theme=radical&utcOffset=6" alt="Commits per Time of Day"/>
 </div>
 
