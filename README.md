@@ -121,10 +121,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+GITHUB+ANALYTICS+%E2%9C%A6" alt="GitHub Analytics"/>
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bipul-unexpected&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipul-unexpected&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&langs_count=10" alt="Top Languages"/>
-</div>
+<table align="center" border="0">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bipul-unexpected&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=8E2DE2&text_color=ffffff&rank_icon=github" alt="GitHub Stats"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipul-unexpected&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bipul-unexpected&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak"/>
@@ -155,7 +165,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bipul-unexpected&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bipul-unexpected&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Followers,Stars,PullRequest,Issues" alt="Trophies"/>
 </div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
@@ -209,11 +219,9 @@
 
 <br/>
 
-<!-- 💬 RANDOM DEV QUOTE + JOKE (refresh to change) -->
+<!-- 💬 RANDOM DEV QUOTE (refresh to change) -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-  <br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke"/>
 </div>
 
 <div align="center">
