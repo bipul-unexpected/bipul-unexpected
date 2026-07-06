@@ -33,31 +33,42 @@
 
 <br/>
 
-<!-- 🧬 ABOUT ME -->
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" alt="Coding GIF"/>
-
+<!-- 🧬 ABOUT ME — two-column table layout, never collapses or overlaps -->
 ## 🧬 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand"/>
+
+<table border="0">
+<tr>
+<td width="55%" valign="top">
 
     const bipul = {
       name: "Bipul Roy",
       alias: "bipul-unexpected",
       role: ["Full-Stack Engineer", "UI/UX Designer", "DevOps Architect"],
       location: "🌍 Dhaka, Bangladesh",
-      frontend: ["React", "Next.js 15", "Angular", "TypeScript", "Tailwind", "Three.js", "GSAP"],
-      backend: ["Node.js", "Django", "Python", "REST", "GraphQL", "Microservices"],
-      devops: ["Docker", "Kubernetes", "GitHub Actions", "Jenkins", "Terraform", "AWS"],
-      design: ["Figma", "Design Systems", "Motion Design", "Awwwards-level UI"],
+      frontend: ["React", "Next.js 15", "Angular", "Three.js", "GSAP"],
+      backend: ["Node.js", "Django", "Python", "GraphQL"],
+      devops: ["Docker", "Kubernetes", "GitHub Actions", "Terraform"],
+      design: ["Figma", "Design Systems", "Motion Design"],
       currentlyBuilding: "⚡ Futuristic web experiences with WebGL & AI",
-      funFact: "I debug with console.log and I'm not ashamed 😎"
+      funFact: "I debug with console.log 😎"
     };
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=700&color=8E2DE2&center=true&vCenter=true&repeat=true&width=380&lines=while+(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+%7D;git+commit+-m+%22another+masterpiece%22+%F0%9F%94%A5;sudo+rm+-rf+%2Fboredom" alt="terminal typing animation"/>
+
+</td>
+</tr>
+</table>
 
 - 🔭 Architecting **scalable systems** — from pixel-perfect UIs to zero-downtime K8s deployments
 - 🎨 Obsessed with **micro-interactions, 3D web & motion design**
 - ⚙️ Automating everything: **CI/CD pipelines, GitOps, Infrastructure as Code**
 - 🌱 Currently exploring **WebGPU, AI-powered DX & edge computing**
 - 💬 Ask me about **React, Next.js, Kubernetes, or shipping fast without breaking things**
-
-<br clear="right"/>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
@@ -100,7 +111,9 @@
 
 </div>
 
-> **"If it's not automated, it's broken."** — Every deployment should be boring. 🧘
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&repeat=true&width=700&lines=%22If+it's+not+automated%2C+it's+broken.%22;Every+deployment+should+be+boring+%F0%9F%A7%98" alt="CI/CD philosophy typing animation"/>
+</div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
