@@ -161,11 +161,14 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=8E2DE2&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+TROPHY+CABINET+%E2%9C%A6" alt="Trophy Cabinet"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1500&color=8E2DE2&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A6+ACHIEVEMENTS+%E2%9C%A6" alt="Achievements"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bipul-unexpected&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Followers,Stars,PullRequest,Issues" alt="Trophies"/>
+  <a href="https://github.com/bipul-unexpected?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbipul-unexpected&query=%24.public_repos&label=PUBLIC%20REPOS&style=flat-square&color=8E2DE2&labelColor=0d1117&logo=github&logoColor=white" alt="Public Repos"/></a>
+  <a href="https://github.com/bipul-unexpected?tab=followers"><img src="https://img.shields.io/github/followers/bipul-unexpected?label=FOLLOWERS&style=flat-square&color=4A00E0&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/></a>
+  <a href="https://github.com/bipul-unexpected"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbipul-unexpected&query=%24.public_gists&label=GISTS&style=flat-square&color=00C9FF&labelColor=0d1117&logo=github&logoColor=white" alt="Gists"/></a>
+  <a href="https://github.com/bipul-unexpected"><img src="https://img.shields.io/badge/SHIPPING-EXCELLENCE-00C9FF?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Shipping Excellence"/></a>
 </div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="animated rainbow divider"/></div>
